@@ -1,16 +1,16 @@
-## Hi there 👋
+# ✨ Megan  ✨
 
-<!--
-**meganadeleh/meganadeleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I’m a new coder! I come from an Operations background & I have a degree in Engineering.
 
-Here are some ideas to get you started:
+## 🧪 What I’m Learning:
+- Python 🐍
+- Making beginner friendly games
+- Using Udemy & Youtube for learning sources & game ideas
+- Strong understanding with Zapier which has helped by Programming brain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Fun Facts:
+- I'm just gettin started...
+- This is my journey — welcome aboard 🚀
+  
+## 📬 Say Hi!
+- [GitHub](https://github.com/meganadeleh)
