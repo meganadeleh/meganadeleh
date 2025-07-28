@@ -9,7 +9,7 @@
 - Strong understanding with Zapier which has helped by Programming brain
 
 ## 💫 Fun Facts:
-- I'm just gettin started...
+- I'm just getting started...
 - This is my journey — welcome aboard 🚀
   
 ## 📬 Say Hi!
