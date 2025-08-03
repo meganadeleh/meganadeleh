@@ -1,16 +1,18 @@
 # ✨ Megan  ✨
 
-🎨 I’m a new coder! I come from an Operations background & I have a degree in Engineering.
+🎨 Hi, I'm Megan — a new coder with a background in Operations and a degree in Engineering. I'm diving into the world of programming and sharing the journey as I go.
 
 ## 🧪 What I’m Learning:
+
 - Python 🐍
-- Making beginner friendly games
-- Using Udemy & Youtube for learning sources & game ideas
-- Strong understanding with Zapier which has helped by Programming brain
+- Building beginner-friendly games
+- Learning through Udemy, YouTube, and hands-on practice
+- Applying my Zapier experience to develop programming logic
 
 ## 💫 Fun Facts:
-- I'm just getting started...
-- This is my journey — welcome aboard 🚀
+
+- Just getting started in tech 🖥️ 
+- Sharing what I learn along the way
   
-## 📬 Say Hi!
+## 📬 Connect:
 - [GitHub](https://github.com/meganadeleh)
